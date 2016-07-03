@@ -20,7 +20,7 @@ import org.codehaus.jackson.type.TypeReference;
 
 /**
  * Java object to convert posted json string
- * @author HungVN
+ * @author HungVN123
  * @since 2015/02/11
  */
 public class CommonReportData {
